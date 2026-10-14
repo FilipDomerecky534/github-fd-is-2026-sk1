@@ -1,0 +1,1 @@
+tato slozka **is-programy** bude slouzit pro jednotlive c# projekty
