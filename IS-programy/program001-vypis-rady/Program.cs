@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Zadejte prvni hodnotu");
+﻿Console.WriteLine("**************************************");
+Console.WriteLine("************* Vypis rady *************");
+Console.WriteLine("**************************************");
+
+Console.WriteLine("Zadejte prvni hodnotu");
 int first = int.Parse(Console.ReadLine()); //ulozi do promene vstup od uzivatele potom co ho prevede na int pomoci parse
 Console.WriteLine("Zadejte posledni hodnotu");
 int last = int.Parse(Console.ReadLine());

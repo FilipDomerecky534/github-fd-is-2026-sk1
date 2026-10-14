@@ -1,0 +1,15 @@
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.AssemblyInfo.cs
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.sourcelink.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\bin\Debug\net9.0\program000.exe
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\bin\Debug\net9.0\program000.deps.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\bin\Debug\net9.0\program000.runtimeconfig.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\bin\Debug\net9.0\program000.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\bin\Debug\net9.0\program000.pdb
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\refint\program000.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.pdb
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\program000.genruntimeconfig.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\IS-programy\program000\obj\Debug\net9.0\ref\program000.dll
