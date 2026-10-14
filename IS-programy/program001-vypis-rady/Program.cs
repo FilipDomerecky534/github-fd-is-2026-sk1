@@ -4,6 +4,7 @@ Console.WriteLine("Zadejte posledni hodnotu");
 int last = int.Parse(Console.ReadLine());
 Console.WriteLine("Zadejte krok mezi hodnotami");
 int step = int.Parse(Console.ReadLine());
+Console.WriteLine("---------------");
 
 for (int i = first; i <= last; i += step)
 {
