@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program000\\program000.csproj",
+      "projectUniqueName": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program000\\program000.csproj",
       "projectName": "program000",
-      "projectPath": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program000\\program000.csproj",
+      "projectPath": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program000\\program000.csproj",
       "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program000\\obj\\",
+      "outputPath": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program000\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.121/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.122/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

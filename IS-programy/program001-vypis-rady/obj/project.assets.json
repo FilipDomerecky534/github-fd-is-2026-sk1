@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectPath": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uzivatel\\Documents\\aaa\\004\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "C:\\aaa\\filip\\github-fd-is-2026-sk1\\IS-programy\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.121/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.122/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
