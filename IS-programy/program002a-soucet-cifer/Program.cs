@@ -1,55 +1,64 @@
-﻿// Řídicí proměnná pro opakování programu
+﻿// POMOCI MATEMATICKYCH OPERACI
+
+
+// Řídicí proměnná pro opakování programu
 string again = "a";
 
-// Hlavní smyčka programu: běží znovu, pokud uživatel zadá 'a' nebo 'A'
+// Hlavní smyčka programu
 while (again.ToLower() == "a")
 {
     Console.Clear();
     Console.WriteLine("***********************************");
-    Console.WriteLine("********* Ciferný součet **********");
-    Console.WriteLine("***********************************");
-    Console.WriteLine("*********** Tomáš Žižka ***********");
+    Console.WriteLine("******** Součet a součin cifer ****");
     Console.WriteLine("***********************************");
     Console.WriteLine();
 
-    // 1. Bezpečné načtení celého čísla od uživatele
+    // 1. Načtení celého čísla
     Console.Write("Zadejte celé číslo: ");
     int number;
+
     while (!int.TryParse(Console.ReadLine(), out number))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte celé číslo znovu: ");
+        Console.Write("Nezadali jste celé číslo. Zadejte znovu: ");
     }
 
-    // 2. Příprava pomocných proměnných pro výpočet
-    int numberBackup = number; // Záloha původního čísla pro závěrečný výpis
-    int sum = 0;               // Neutrální prvek pro sčítání je 0
-    int digit;                 // Proměnná pro uložení právě oddělené cifry
+    // 2. Pomocné proměnné
+    int numberBackup = number;
+    int sum = 0;
+    long product = 1;
+    int digit;
 
-    // 3. Ošetření záporných čísel (znaménko nemá vliv na cifry)
-    if (number < 0)
+    // 3. Ošetření záporných čísel
+    // Použití long umožní bezpečně zpracovat i int.MinValue
+    long tempNumber = number;
+
+    if (tempNumber < 0)
     {
-        number = -number;
+        tempNumber = -tempNumber;
     }
 
     // 4. Zvláštní případ pro nulu
-    if (number == 0)
+    if (tempNumber == 0)
     {
         sum = 0;
+        product = 0;
     }
     else
     {
         Console.WriteLine();
-        Console.WriteLine("Průběh rozkladu čísla na cifry (zprava doleva):");
+        Console.WriteLine("Rozklad čísla na cifry:");
 
-        // 5. Matematický rozklad čísla pomocí cyklu
-        while (number > 0)
+        // 5. Matematický rozklad čísla na cifry
+        while (tempNumber > 0)
         {
-            digit = number % 10;            // Modulo 10 získá poslední číslici
-            sum = sum + digit;              // Přičtení cifry k celkovému součtu
+            digit = (int)(tempNumber % 10);
+
+            sum = sum + digit;
+            product = product * digit;
 
             Console.WriteLine($"Získána cifra: {digit}");
 
-            number = number / 10;           // Celočíselné dělení 10 odstraní poslední číslici
+            tempNumber = tempNumber / 10;
         }
     }
 
@@ -58,10 +67,11 @@ while (again.ToLower() == "a")
     Console.WriteLine("====================================");
     Console.WriteLine($"Původní číslo:  {numberBackup}");
     Console.WriteLine($"Ciferný součet: {sum}");
+    Console.WriteLine($"Ciferný součin: {product}");
     Console.WriteLine("====================================");
     Console.WriteLine();
 
     // 7. Dotaz na opakování programu
-    Console.Write("Pro opakování programu stiskněte 'a' a potvrďte klávesou Enter: ");
+    Console.Write("Pro opakování programu stiskněte 'a': ");
     again = Console.ReadLine() ?? "";
 }
