@@ -32,6 +32,14 @@ while (again.ToLower() == "a")
     // Vnější cyklus počítá řádky (shora dolů)
     for (int i = 1; i <= height; i++)
     {
+         if (i % 2 == 0)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+        }
         // Vnitřní cyklus sází sloupce v aktuálním řádku (zleva doprava)
         for (int j = 1; j <= width; j++)
         {
