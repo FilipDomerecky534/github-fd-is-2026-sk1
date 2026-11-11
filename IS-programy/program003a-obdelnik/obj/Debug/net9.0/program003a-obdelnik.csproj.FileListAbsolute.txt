@@ -1,0 +1,15 @@
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\bin\Debug\net9.0\program003a-obdelnik.exe
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\bin\Debug\net9.0\program003a-obdelnik.deps.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\bin\Debug\net9.0\program003a-obdelnik.runtimeconfig.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\bin\Debug\net9.0\program003a-obdelnik.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\bin\Debug\net9.0\program003a-obdelnik.pdb
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.AssemblyInfo.cs
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.sourcelink.json
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\refint\program003a-obdelnik.dll
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.pdb
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\program003a-obdelnik.genruntimeconfig.cache
+C:\Users\Uzivatel\Documents\aaa\004\github-fd-is-2026-sk1\github-fd-is-2026-sk1\IS-programy\program003a-obdelnik\obj\Debug\net9.0\ref\program003a-obdelnik.dll
