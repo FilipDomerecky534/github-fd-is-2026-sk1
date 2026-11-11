@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program003b-pravouhly-trojuhelnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e8b18b397a507f105e805005477171ac46ecd1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d774f01172cc9fdf377ccffc1f9ac5450e69a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("program003b-pravouhly-trojuhelnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program003b-pravouhly-trojuhelnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,6 +34,14 @@ while (again.ToLower() == "a")
     // 3. Vykreslení trojúhelníku
     for (int i = 1; i <= height; i++)
     {
+        if (i % 2 == 0)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+        }
         int stars = i * width / height;
 
         for (int j = 1; j <= stars; j++)
